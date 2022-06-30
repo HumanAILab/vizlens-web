@@ -41,11 +41,11 @@ features                                  :
 
   - title                                 : Button Feedback
     description                           : Get audio feedback on which button you are pointing at while phyically interacting with any appliance.
-    fontawesome_icon_name                 : hand-back-point-up
+    fontawesome_icon_name                 : hand-point-up
 
   - title                                 : Virtual Interface
     description                           : Learn the layout and button contents of the appliance to make interacting with it easier.
-    fontawesome_icon_name                 : grip-dots
+    fontawesome_icon_name                 : dot-circle
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
