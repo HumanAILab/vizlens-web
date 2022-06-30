@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : mobile
 
   - title                                 : Button Feedback
-    description                           : Get audio feedback on which button you are pointing at while phyically interacting with any appliance.
+    description                           : Get audio feedback on which button you are pointing at while physically interacting with any appliance.
     fontawesome_icon_name                 : hand-point-up
 
   - title                                 : Virtual Interface
