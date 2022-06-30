@@ -35,17 +35,17 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+  - title                                 : Access to Appliances
+    description                           : Unrestricted access to all appliances, without the need for braille!
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Button Feedback
+    description                           : Get audio feedback on which button you are pointing at while phyically interacting with any appliance.
+    fontawesome_icon_name                 : hand-back-point-up
 
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Virtual Interface
+    description                           : Learn the layout and button contents of the appliance to make interacting with it easier.
+    fontawesome_icon_name                 : grip-dots
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
