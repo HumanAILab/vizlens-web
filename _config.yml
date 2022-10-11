@@ -23,11 +23,11 @@ enable_smart_app_banner                   : true                                
 your_name                                 : Human AI Lab at the University of Michigan                                
 your_link                                 : https://humanailab.com                     
 your_city                                 : Ann Arbor, Michigan                                
-email_address                             : humanailab@gmail.com
+email_address                             : humanailab-vizlens@umich.edu
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
-github_username                           : https://github.com/HumanAILab/vizlens-client-ios 
+github_username                           : #https://github.com/HumanAILab/vizlens-client-ios 
 youtube_username                          :
 
 
@@ -36,11 +36,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Access to Appliances
-    description                           : Unrestricted access to all appliances, without the need for braille!
+    description                           : Improving access to physical appliances and control panels.
     fontawesome_icon_name                 : mobile
 
   - title                                 : Button Feedback
-    description                           : Get audio feedback on which button you are pointing at while physically interacting with any appliance.
+    description                           : Get audio feedback on which button you are pointing at while physically interacting with the appliance.
     fontawesome_icon_name                 : hand-point-up
 
   - title                                 : Virtual Interface
