@@ -29,6 +29,10 @@ Link to the privacy policy of third-party service providers used by the app
 
 - [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
+### IRB
+
+It is optional to take part in the research study. We will be collecting usage data such as device information, clicks, session information, and state changes as you use the app. The researchers will try to minimize risks to your information privacy by storing data on a secure server, and keeping identifiable information (i.e., your name, email) separate. We will keep the information we collect about you during the research for future research projects and for study recordkeeping, but no published articles or presentations will not include any information that would let others know who you are. We may use or share your research information for future research studies. We will not ask for your additional informed consent for these studies.
+
 ## Log Data
 
 We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and og sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
