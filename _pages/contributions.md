@@ -6,7 +6,7 @@ include_in_header: false
 
 # Contributions
 
-Thanks for the contributions of time, work, and resources from individuals:
+Thanks for the contributions of time, work, and resources from these individuals:
 
 <ul>
   <li><a href="https://mqazwini.com/">Mahdi Qazwini</a></li>
